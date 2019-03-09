@@ -1,24 +1,24 @@
-# ![](/Users/fzuppa/10Pines/leanpub-desarrollo-agil-en-10pines/manuscript/images/vision-compartida.png)
+# ![](images/vision-compartida.png)
 
 > ### The hardest single part of building a software system is deciding precisely what to build - Frederick Brooks
 
 # Product Discovery
 
-En 10Pines construimos software para diversos tipos de clientes, desde grandes corporaciones como Claro y Burger King, que quieren desarrollar nuevos productos o ampliar la funcionalidad de herramientas existentes, hasta emprendimientos recién nacidos que buscan construir una versión inicial del producto. Si bien las necesidades, el tamaño del problema y obviamente el presupuesto difieren, siempre comenzamos nuestros desarrollos con una etapa que denominamos **Product Discovery** donde nos juntamos con los especialistas en el negocio, nuestros clientes, a crear una **visión compartida** de lo que se desea construir.
+En 10Pines construimos software para diversos tipos de clientes, desde grandes corporaciones como Claro y Burger King, que quieren desarrollar nuevos productos o ampliar la funcionalidad de herramientas existentes, hasta emprendimientos recién nacidos que buscan construir una versión inicial del producto. Si bien las necesidades, el tamaño del problema y obviamente el presupuesto difieren, siempre comenzamos nuestros desarrollos con una etapa que denominamos Product Discovery donde nos juntamos con los especialistas en el negocio, nuestros clientes, a crear una visión compartida de lo que se desea construir.
 
 El objetivo de esta etapa es entender qué es lo que se quiere construir, quiénes serán los usuarios y clientes principales, tener una idea del tamaño, establecer prioridades, identificar riesgos, acordar cuál es el [producto mínimo viable](https://es.wikipedia.org/wiki/Producto_viable_mínimo), entender los objetivos y las razones ligados al producto y entender cuál es el modelo de negocio.
 
-Existe una diferencia entre la simple compresión de los requerimientos y el grado de entendimiento e involucramiento que buscamos en esta etapa en 10Pines. Esto es lo que nos permite **alcanzar un intenso grado de colaboración con todos nuestros clientes**. Diseñar una solución es algo muy complejo que se logra a través de la interacción y colaboración de todos estos actores desde el momento en que nos contactan. **El compromiso y la sinergia,** alcanzados por el equipo en esta etapa, son muy importantes. Es por eso que en todos nuestros proyectos diseñamos las soluciones juntos, proponemos y discutimos alternativas y nos enfocamos en alcanzar los objetivos, **maximizando la colaboración y la comunicación**, que son dos de los valores ágiles más importantes.
+Existe una diferencia entre la simple compresión de los requerimientos y el grado de entendimiento e involucramiento que buscamos en esta etapa en 10Pines. Esto es lo que nos permite alcanzar un intenso grado de colaboración con todos nuestros clientes. Diseñar una solución es algo muy complejo que se logra a través de la interacción y colaboración de todos estos actores desde el momento en que nos contactan. El compromiso y la sinergia, alcanzados por el equipo en esta etapa, son muy importantes. Es por eso que en todos nuestros proyectos diseñamos las soluciones juntos, proponemos y discutimos alternativas y nos enfocamos en alcanzar los objetivos, maximizando la colaboración y la comunicación, que son dos de los valores ágiles más importantes.
 
-# Fase de Product Discovery
+## Introducción
 
 _Product Discovery_ es la primera fase de nuestra metodología. Sentamos aquí las bases de lo que constituirá el resto del desarrollo. Buscamos entender los problemas que el cliente desea solucionar y, a partir de ellos, trabajar en procura de las soluciones necesarias.
 
 Creemos firmemente en los valores ágiles de comunicación y colaboración. Por esta razón, durante esta primera fase, intentamos maximizar el ancho de banda y establecer lazos de colaboración cercanos. Esta etapa consiste, principalmente, en una serie de talleres que desarrollamos junto a nuestros clientes.
 
-El resultado es un conjunto de artefactos que nos permitirá establecer un plan para desarrollar el producto. Es importante remarcar que la documentación producida durante esta etapa es creada, de forma _eficiente_, a través de la colaboración de todos los involucrados, generando, al mismo tiempo, un importante **caudal de conocimiento compartido**.
+El resultado es un conjunto de artefactos que nos permitirá establecer un plan para desarrollar el producto. Es importante remarcar que la documentación producida durante esta etapa es creada, de forma _eficiente_, a través de la colaboración de todos los involucrados, generando, al mismo tiempo, un importante caudal de conocimiento compartido.
 
-## **¿Qué es lo que se busca descubrir?**
+## ¿Qué es lo que se busca descubrir?
 
 Antes de describir el proceso y las herramientas que usamos en esta etapa, detallaremos qué es lo que se intenta descubrir:
 
@@ -38,11 +38,11 @@ Antes de describir el proceso y las herramientas que usamos en esta etapa, detal
 
 Marty Cagan, en su libro [‘_Inspired, how to create products that customers love_’](http://svpg.com/inspired-how-to-create-products-customers-love/), afirma que para que un producto sea exitoso, debe ser **valioso, usable y posible de desarrollar**. La fase de _Product Discovery_ tiene el objetivo de crear una visión compartida de cómo alcanzar estas metas. Para eso debemos entender dónde está el valor del producto, cómo va a ser usado \(su [usabilidad](https://es.wikipedia.org/wiki/Usabilidad)\) y, por supuesto, si técnicamente es factible de construir.
 
-## **Talleres de **_**Product Discovery**_
+## Talleres de *Product Discovery*
 
 La mejor forma de hacer este descubrimiento es a partir de un conjunto de reuniones que realizamos junto con nuestros clientes en las que empleamos un conjunto de herramientas, juegos, que permiten que todos los participantes se involucren. Estas reuniones, a las que concurren usuarios de negocios, desarrolladores, testers, especialistas en UX y diseñadores, pueden durar desde 4 horas, para productos pequeños, hasta una semana en proyectos de gran magnitud. La diversidad de roles enriquece el resultado, ya que, además de nuestros clientes,** que conocen qué se requiere** **y cuáles son los objetivos**, se necesitan **desarrolladores que evalúen la factibilidad**, **testers que contribuyan con su atención a los detalles** y** especialistas en UX que evalúen la **_**usabilidad**_. Es fundamental que concurran el _product manager_, el _technical leader_ y un facilitador que se encargará de llevar la reunion adelante, explicar las herramientas que se van a usar y mediar en las conversaciones. Destaco que, más allá de los artefactos producidos, resultan de gran utilidad las conversaciones desarrolladas. ¡Es curioso pero, muchas veces, detectamos que no existe una visión unificada, ni siquiera, entre diferentes integrantes de la misma empresa cliente! Discutir sobre todas las aristas que tendrá el producto, en esta etapa, resulta esencial para unificar el entendimiento y las visiones de todas las personas involucradas en el desarrollo. [Jeff Patton llama a esto ‘Comprensión Compartida’](https://www.amazon.com/User-Story-Mapping-Discover-Product/dp/1491904909/ref=as_sl_pc_qf_sp_asin_til?tag=jefpatass-20&linkCode=w00&linkId=NX2UXYQEFAANOFPO&creativeASIN=1491904909).
 
-## **Herramientas**
+## Herramientas
 
 A continuación, describiré algunas de las herramientas que usamos habitualmente en los talleres:
 
