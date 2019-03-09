@@ -1,4 +1,4 @@
-# ![](images/vision-compartida.png)
+# ![Vision Compartida](images/vision-compartida.png)
 
 > ### The hardest single part of building a software system is deciding precisely what to build - Frederick Brooks
 
@@ -46,7 +46,7 @@ La mejor forma de hacer este descubrimiento es a partir de un conjunto de reunio
 
 A continuación, describiré algunas de las herramientas que usamos habitualmente en los talleres:
 
-![](/Users/fzuppa/10Pines/leanpub-desarrollo-agil-en-10pines/manuscript/images/product-discovery-tools.png)
+![Herramientas](images/product-discovery-tools.png)
 
 ### _**User Story Mapping**_
 
